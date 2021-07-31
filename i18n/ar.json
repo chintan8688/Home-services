@@ -1,0 +1,11 @@
+{
+  "email": "البريد الإلكتروني",
+  "password": "كلمه السر",
+  "login": "تسجيل الدخول",
+  "enter_valid_email": "أدخل بريد إلكتروني متاح",
+  "enter_valid_password": "أدخل كلمة مرور صالحة",
+  "forgot_your_password": "نسيت رقمك السري؟",
+  "don't_have_account": "لا يوجد لديك حساب؟",
+  "sign_up": "اشتراك",
+  "or": "أو"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>444407165780-mnjokn5lm1pcjkrtq9gjv56spq2q6sq6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.444407165780-mnjokn5lm1pcjkrtq9gjv56spq2q6sq6</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>444407165780-l2opc1h3k7ji1mtj5obucpkadek724e5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAZEzqhE_LcsSLhj2-QYmBfLKkTPPaHIEI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>444407165780</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.clickaway.app</string>
+	<key>PROJECT_ID</key>
+	<string>clickaway-a9b14</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clickaway-a9b14.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:444407165780:ios:6820a5d84ad9bf778d8ec1</string>
+</dict>
+</plist>

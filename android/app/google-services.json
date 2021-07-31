@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "444407165780",
+    "project_id": "clickaway-a9b14",
+    "storage_bucket": "clickaway-a9b14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444407165780:android:a133a114cbf833ec8d8ec1",
+        "android_client_info": {
+          "package_name": "com.clickaway.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444407165780-n6ioe14lsnparj5g2fm93s9dtqlo6m5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clickaway.app",
+            "certificate_hash": "49b1a7be988ad7906485f21e028510b359598ffc"
+          }
+        },
+        {
+          "client_id": "444407165780-ol9fdn7e0csnungeo6ob1pr0nnuuasb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clickaway.app",
+            "certificate_hash": "a72a81acfacc4f139abd5a5f52ad2c2d4091495f"
+          }
+        },
+        {
+          "client_id": "444407165780-1gdmtlvor1va4i3103alsp1i8reqmoh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCELkxAXJPet0KJ3RaU1o0B-6LPkOlUqDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444407165780-1gdmtlvor1va4i3103alsp1i8reqmoh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
